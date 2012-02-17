@@ -40,7 +40,7 @@ Technical Skills
 Professional Career
 -------------------
 
-### **[h6e.net](http:/h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (since November 2008)
+### **[h6e.net](http://h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (since November 2008)
 
  * Free Lancer activity <em>(Details on request)</em>
  * Open Source contributions (eg: [Wordpress](http://h6e.net/wordpress/), [Bouncer](http://h6e.net/bouncer/))
