@@ -1,6 +1,8 @@
-I'm an enthusiastic - 10 years experience - web technologist.
+Enthusiastic - 10 years experience - web technologist.
 
-Architecture, Engineering, Research & Development, Management.
+Architecture, Engineering, Research & Development, Entrepreneurship, Management.
+
+Always busy / Open to any proposal.
 
 Information
 -----------
@@ -13,6 +15,7 @@ Information
 Interests
 ---------
 
+ * Web Culture
  * Web Applications & Web APIs
  * Open Platforms & Open Formats
  * Open Source Software
@@ -21,48 +24,41 @@ Interests
 Technical Skills
 ----------------
 
-"Full Stack" Engineer
-
  * Front-End
      - HTML/CSS expert (HTML5, CSS3, Mobile, Responsive Design)
      - Javascript hacker (native JS & major frameworks)
  * Back-End
-     - PHP veteran (and Zend Framework, Symfony)
-     - Python/Ruby/Node.js wanabee
+     - PHP veteran (+ Zend Framework, Symfony)
+     - Python/Ruby/Node.js wannabe
  * Protocols
      - HTTP & RESTful web services
      - AtomPub, openID, oAuth
  * Systems
+     - Linux administration
      - HTTP servers: Apache, nginx
      - Data Stores: SQL (MySQL), NoSQL (Memcache, Redis, MongoDB)
-     - Cloud: Amazon Web Services and other IAAS/PAAS services
+     - Cloud: Amazon Web Services and many other IAAS/PAAS services
 
 Professional Career
 -------------------
 
 ### **[h6e.net](http://h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (since November 2008)
 
- * Free Lancer activity <em>(Details on request)</em>
+ * Freelance activity <em>(Details on request)</em>
  * Open Source contributions (eg: [Wordpress](http://h6e.net/wordpress/), [Bouncer](http://h6e.net/bouncer/))
  * Bootstrapping new projects (eg: [La Distribution](http://ladistribution.net/))
 
 ### **[Netvibes.com](http://www.netvibes.com/)** _'Personalised page pionneer'_<br />Chief Architect (January 2006 - November 2008)
 
- * Tech lead
-  - hiring
-  - architecture
-  - technical strategy
-  - development & release workflow
+ * Tech lead: hiring, architecture, technical strategy, workflows
  * [Universal Widget API](http://web.archive.org/web/20100411050209/http://netvibes.org/specs/uwa/current-work/)
-  - a simple - web standards based - cross-platform - widget API
- * Widget development
-  - with high quality guidelines, eg [Twitter](http://www.netvibes.com/modules/twitter/twitter.html)
+  - invented a simple - web standards based - cross-platform - widget API
  * [Netvibes.org](http://web.archive.org/web/20090416004816/http://netvibes.org/) <em>(now shutdown)</em>
   - released the 'Netvibes Platform' as open source, see [announcement](http://blog.netvibes.com/?2008/06/06/172-netvibesorg-opening)
  * Localisation
-  - build a web based gettext compatible translation application: [translate.netvibes.com](http://translate.netvibes.com/)
+  - build a web based collaborative translation application: [translate.netvibes.com](http://translate.netvibes.com/)
  * Mobile
-  - prototyped and launched the ['wap'](http://wap.netvibes.com/) & [iphone](http://iphone.netvibes.com/) versions of netvibes
+  - prototyped and launched the first ['wap'](http://wap.netvibes.com/) & [iphone](http://iphone.netvibes.com/) versions of netvibes
 
 ### **[Upian.com](http://www.upian.com/)** _'Fantastic web studio'_<br />Lead developer (October 2001 - October 2006)
 
@@ -84,9 +80,9 @@ Extra Projects
 
 ### **[Blogmarks.net](http://blogmarks.net/)** _'Social bookmarking web application'_<br />Founder (since January 2004)
 
- * Co-founded the project
- * First version launched in february 2005, a second in may 2006.
- * Development is currently on hold, but the service is still maintained.
+ * Co-founded the service.
+ * Launched in february 2005 and re-launched (v2) in may 2006.
+ * Development is currently on hold, but the service is still operated.
 
 ### **[Rojo-Projects.com](http://rojo-projects.com/)** _'Contemporary art projects'_<br />Webmaster (since November 2005)
 
