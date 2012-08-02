@@ -42,7 +42,13 @@ Technical Skills
 Professional Career
 -------------------
 
-### **[h6e.net](http://h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (since November 2008)
+### **[EyeEm](http://www.eyeem.com/)** _'Mobile photography'_<br />Backend Developer (since June 2011)
+
+ * Development
+ * API design (REST, oAuth)
+ * System operations (AWS, Ubuntu, nginx, PHP, Memcache, MySQL)
+
+### **[h6e](http://h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (Self-Employed) (Since November 2008)
 
  * Freelance activity <em>(Details on request)</em>
  * Open Source contributions (eg: [Wordpress](http://h6e.net/wordpress/), [Bouncer](http://h6e.net/bouncer/))
