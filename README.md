@@ -37,6 +37,7 @@ Technical Skills
      - Linux (Debian, Ubuntu)
      - HTTP servers: Apache, nginx
      - Data Stores: SQL (MySQL), NoSQL (Memcache, Redis, MongoDB)
+     - Message Queues: RabbitMQ
      - Cloud: Amazon Web Services and many other IAAS/PAAS services
 
 Professional Career
