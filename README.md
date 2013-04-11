@@ -46,7 +46,7 @@ Professional Career
 
  * Development
  * API design (REST, oAuth)
- * System operations (AWS, Ubuntu, nginx, PHP, Memcache, MySQL)
+ * System operations (AWS, Ubuntu, nginx, PHP, Memcache, Redis, MySQL, RabbitMQ)
 
 ### **[h6e](http://h6e.net/)** _'Open source, Web applications, Platforms'_<br />Consultant, Web Developer (Self-Employed) (Since November 2008)
 
