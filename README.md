@@ -89,11 +89,6 @@ Extra Projects
  * Launched in february 2005 and re-launched (v2) in may 2006.
  * Development is currently on hold, but the service is still operated.
 
-### **[Rojo](http://rojo-projects.com/)** _'Contemporary art projects'_<br />Webmaster (since November 2005)
-
- * Help the ROJO® team deal with web technologies.
- * Develop & maintain the websites - aiming to keep things clean and simple.
-
 ### **[Hot Links](http://hotlinks.upian.com/)** _'Visual Linkblog Aggregator'_<br />Creator (since November 2003)
 
  * In a pre Web 2.0 world, created this popular mashup.
