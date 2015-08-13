@@ -1,4 +1,4 @@
-<img width="150" height="150" src="./avatar2014.jpg" class="avatar"/>
+<img width="150" height="150" src="http://francois.hodierne.net/avatar2014.jpg" class="avatar"/>
 
 François Hodierne
 =================
