@@ -14,16 +14,21 @@ Career
 ------
 
 ### <a name="eyeem"></a> **[EyeEm](http://www.eyeem.com/)**<br />
-Backend Engineer (since June 2011)
+Interim Frontend Engineer (June 2015 - January 2016)
+
+ * <span class="tldr">Contributed to the EyeEm website, an isomorphic React application</span>
+ * <span class="tldr">Created a React based email framework: EyeMail</span>
+
+Backend Engineer (June 2011 - June 2015)
 
  * <span class="tldr">First Backend and Infrastructure Engineer</span>
  * <span class="tldr">API Creator and Owner</span>
 
 **The Story**:
-After [La Distribution](#ladistribution), I started consulting again and met the nice founders of EyeEm. They were really in need for help on their backend and I started working with them as a contractor. Things went really well and after some time I eventually moved as a full time employee.
+In June 2011, I stopped working on [La Distribution](#ladistribution) and started consulting again. At the same time, I met the nice founders of EyeEm who were in need for help on their backend. I started working with them as a contractor, things went really well and after some time I eventually moved as a full time employee.
 
 **Achievement**:
-helped scale the company from ~6 people, ~5K users and ~0$ to 60+ people, 10M+ users, 50M+ photos and 24M$+ in funding. To date!
+helped scale the company from ~6 people, ~5K users and ~0$ to 60+ people, 10M+ users, 50M+ photos and 24M$+ in funding.
 
 **Sample Projects**:
 
@@ -33,7 +38,7 @@ helped scale the company from ~6 people, ~5K users and ~0$ to 60+ people, 10M+ u
  * Access Logs: Monolog + Logstash + Kibana mashup allowing a detailed understanding of our API traffic and performance.
 
 **The Stack**:
-AWS, Ubuntu, nginx, PHP, Memcache, Redis, MySQL, RabbitMQ, ElasticSearch, Cassandra.
+AWS, Ubuntu, nginx, PHP, Memcache, Redis, MySQL, RabbitMQ, ElasticSearch, Cassandra. Javascript, React, node.js.
 
 ### <a name="ladistribution"></a> **[La Distribution](http://ladistribution.net/)**<br />
 Founder (January 2009 - June 2011)
@@ -70,8 +75,7 @@ Technical Director (October 2001 - October 2006)
 
  * <span class="tldr">First Developer in an award winning web studio</span>
 
-**The Story:**
-
+**The Story**:
 In September 2001, right after the dotcom crash, looking for a first job as a developer was tough. I finally met the founder of Upian, Alexandre Brachet, and was hired to code [Presidentielles.net](http://2002.presidentielles.net/), an improbable website covering the french 2002 presidential election. Things went really well and I then helped the company start and grow its web agency activity, providing my technical guidance and developer magics.
 
 **Achievements**:
@@ -80,36 +84,52 @@ In September 2001, right after the dotcom crash, looking for a first job as a de
  * Early adoption of web standards and CSS based design.
  * A lot of fantastic projects which are unfortunately all now forgotten.
 
-**The End**:
-
-In 2005, the "web 2.0" era was starting and after the early success of [Blogmarks](#blogmarks) we tried to move the business toward web applications. We signed [Netvibes](#netvibes) as a first customer and I was then progressively sucked in the startup world.
-
 Extra Projects
--------------
+--------------
 
-### <a name="bouncer"></a> **[Bouncer](http://h6e.net/bouncer/)**<br />
+### <a name="bouncer"></a> [Bouncer](http://h6e.net/bouncer/) + Access Watch<br />
 Creator (since June 2010)
 
- * Created a library to analyse the traffic on [Blogmarks](#blogmarks).
- * Currently creating a worldwide detailed database of IP Addresses and User Agents.
+ * Originally created Bouncer to analyse the HTTP traffic on [Blogmarks](#blogmarks).
+ * Currently working on Access Watch, a web traffic analysis platform
 
-### <a name="blogmarks"></a> **[Blogmarks](http://blogmarks.net/)**<br />
+### <a name="blogmarks"></a> [Blogmarks](http://blogmarks.net/)<br />
 Founder (since January 2004)
 
  * Co-founded this Social Bookmarking application.
  * Maintaining and operating the service for the last 10 years.
  * Currently polishing a modernised version for the next 10 years.
 
+Talks
+-----
+
+### [Paris Web 2015](http://www.paris-web.fr/2015/)
+
+  * [Bons Robots, Mauvais Robots: Un Intense Trafic](http://francois.hodierne.net/2015/bons-robots-mauvais-robots/)
+
+Open Source
+-----------
+
+### [WordPress](https://wordpress.org/)
+
+  * Contributed several patches to make the Atom API more useful.
+    See [Tickets & Patches](https://core.trac.wordpress.org/my-comments/all?USER=znarfor).
+
+### [AMQP library for PHP](https://github.com/videlalvaro/php-amqplib)
+
+ * Helped make the library significantly faster by benchmarking its performance and eliminating bottlenecks.
+   See [Pull Requests](https://github.com/videlalvaro/php-amqplib/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Aznarf).
+
 Technologies
 ------------
 
  * Backend
      - PHP veteran (15+ years experience)
-     - Node.js newbie (experience in production)
-     - Ruby/Python wanabee (would love to work with these)
+     - Node.js enthusiast
+     - Ruby/Python compatible
  * Frontend
      - HTML/CSS/Javascript veteran (15+ years experience)
-     - React newbie (experience in production)
+     - React enthusiast
  * Protocols
      - HTTP & RESTful web services
      - AtomPub, OpenID, oAuth
