@@ -87,11 +87,11 @@ In September 2001, right after the dotcom crash, looking for a first job as a de
 Extra Projects
 --------------
 
-### <a name="bouncer"></a> [Bouncer](http://h6e.net/bouncer/) + Access Watch<br />
+### <a name="bouncer"></a> [Bouncer](https://github.com/znarf/bouncer) + [Access Watch](https://access.watch/)<br />
 Creator (since June 2010)
 
- * Originally created Bouncer to analyse the HTTP traffic on [Blogmarks](#blogmarks).
- * Currently working on Access Watch, a web traffic analysis platform
+ * Originally created [Bouncer](https://github.com/znarf/bouncer) to analyse the HTTP traffic on [Blogmarks](#blogmarks).
+ * Currently working on [Access Watch](https://access.watch/), a Web Traffic Analytics Service
 
 ### <a name="blogmarks"></a> [Blogmarks](http://blogmarks.net/)<br />
 Founder (since January 2004)
