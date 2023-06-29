@@ -18,20 +18,20 @@ Software Engineer (Since April 2018) and CTO (Since January 2021)
 After closing Access Watch, it was time to find something new. I discovered Open Collective, started contributing to the Open Source codebase and applied. I was hooked, joined as a Software Engineer and ultimately became CTO.
 
 **Achievements**:
-- Nurtured a platform and make it grow without much drama
-- Helped make the company profitable with more than $1M in annual revenue
-- Helped grow the Open Collective galaxy to more than 25 people
+- Nurturing a platform and making it grow with limited drama
+- Helping make the company profitable with more than $1.5M in annual revenue
+- Helping grow the Open Collective constellation to more than 25 people on 5 continents
 
 ### <a name="access-watch"></a> **[Access Watch](http://access.watch/)**<br />
 Founder and CEO (January 2016 - March 2018)
 
 **Story**:
-When working at EyeEm, I slowly got obssessed by a web traffic analysis side project. One day, I found the right architecture, the right business model and thought that could become a thing. I made it a startup with the help of Atlantic Labs and an awesome founding team.
+When working at EyeEm, I slowly got obssessed by a web traffic analysis side project. One day, I found the right architecture, the right business model and thought that could become a thing. I made it a startup with the help of Atlantic Labs.
 
 **Achievements**:
 - Raised venture capital to bootstrap the company and assembled a founding team of 6 people
-- Executed a bootstrap strategy, landed 1000 active users and first paying customers
-- Listened to the market and initiated a reboot from SAAS to an Open Source business model
+- Executed a bootstrap strategy, landed 1,000 active users and first paying customers
+- Listened to the market and initiated a reboot from an SAAS to an Open Source business model
 
 ### <a name="eyeem"></a> **[EyeEm](https://www.eyeem.com/)**<br />
 
@@ -42,13 +42,13 @@ Backend Engineer (June 2011 - June 2015)
 
 Interim Frontend Engineer (June 2015 - January 2016)
 
- * <span class="tldr">Contributed to the EyeEm web app, an isomorphic React application</span>
+ * <span class="tldr">Contributed to the EyeEm web app, a React application</span>
 
 **Story**:
-In June 2011, I stopped working on [La Distribution](#ladistribution) and started consulting again. I met Ramzi Rizk and the sympathic founders of EyeEm and there was an opportunity for me to help them on their web infrastructure. I started as a contractor and after some time eventually moved as a full time employee.
+In June 2011, I stopped working on [La Distribution](#ladistribution) and started consulting again. I met Ramzi Rizk and the sympathic founders of EyeEm. There was an opportunity for me to help them on their web infrastructure. I started as a contractor and after some time eventually moved as a full time employee.
 
 **Achievements**:
-helped scale the company to 60+ people, 10M+ users, 50M+ photos and 24M$+ in funding.
+helped scale the company to 60+ people, 10M+ users, 50M+ photos and $24M+ in funding.
 
 **Stack**:
 AWS, Ubuntu, nginx, PHP, Memcache, Redis, MySQL, RabbitMQ, ElasticSearch. Javascript, React, node.js.
@@ -72,10 +72,10 @@ Chief Architect (January 2006 - November 2008)
  * <span class="tldr">Responsible for API and developer platform</span>
 
 **Story**:
-I met Tariq Krim, Founder of Netvibes, at a conference in Paris a few months after he launched the product. We chatted about the API strategy and figured I could help. I started as a contractor, became more and more involved and finally joined full time. There I launched a successful developer platform and ended as Chief Architect, responsible for the platform vision and technical strategy.
+I met Tariq Krim, Founder of Netvibes, at a conference in Paris a few months after he launched. We chatted about the API strategy and figured I could help. I started as a consultant, became more and more involved and finally joined full time. There I launched a successful developer platform and ended as Chief Architect, responsible for the platform vision and technical strategy.
 
 **Achievement**:
-helped scale the company to 40 people, 10M+ users and 15M$+ in funding. The UWA platform was a key asset when selling Netvibes to Dassault Systèmes.
+helped scale the company to 40 people, 10M+ users and $15M+ in funding. The UWA platform was a key asset when selling Netvibes to Dassault Systèmes.
 
 **Sample Projects**:
 
@@ -154,9 +154,9 @@ Technologies
  * Systems
      - Linux: Debian, Ubuntu
      - HTTP servers: Apache, nginx
-     - Databases and Data Stores: SQL (MySQL), NoSQL (Memcache, Redis, ElasticSearch)
+     - Databases and Data Stores: SQL (PostgreSQL, MySQL), NoSQL (Memcache, Redis, ElasticSearch)
      - Message Queues: RabbitMQ
-     - Cloud: Amazon Web Services and many other IAAS/PAAS services
+     - Cloud: Amazon Web Services and many other services
 
 Interests
 ---------
