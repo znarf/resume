@@ -1,6 +1,6 @@
 # François Hodierne
 
-<div class="title">Software Engineer, CTO or CEO - depending on the day</div>
+## Software Engineer, CTO or CEO - depending on the day
 
 - Based in Berlin, Germany
 - Speaks: French, English and modestly German
@@ -103,7 +103,7 @@ In September 2001, looking for a first job as a 18y old was tough. I ultimately 
 
 ## Extra Projects
 
-### <a name="hyperwatch"></a> [Hyperwatch](https://github.com/hyperwatch/hyperwatch)<br />
+### <a name="hyperwatch"></a> [Hyperwatch](https://github.com/hyperwatch/hyperwatch)
 
 Creator (since June 2010)
 
@@ -111,7 +111,7 @@ Creator (since June 2010)
 - Then founded [Access Watch](https://access.watch/), a web traffic analysis startup
 - Now Hyperwatch, based on some Open Source assets from Access Watch
 
-### <a name="blogmarks"></a> [Blogmarks](http://blogmarks.net/)<br />
+### <a name="blogmarks"></a> [Blogmarks](http://blogmarks.net/)
 
 Founder (since January 2004)
 
