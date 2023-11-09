@@ -1,6 +1,6 @@
 # François Hodierne
 
-## Software Engineer, CTO or CEO - depending on the day
+**Software Engineer, CTO or CEO - depending on the day**
 
 - Based in Berlin, Germany
 - Speaks: French, English and modestly German
